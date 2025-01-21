@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Alura Geek</title>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <img src="logo.png" alt="Logo Alura Geek" class="logo">
+            <h1>Alura Geek</h1>
+        </div>
+        <p>Sua loja favorita para itens incríveis 💖</p>
+    </header>
+    
+    <main>
+        <section id="product-form">
+            <h2>Adicionar Produto</h2>
+            <form id="add-product">
+                <input type="text" id="product-name" placeholder="Nome do Produto" required>
+                <textarea id="product-description" placeholder="Descrição do Produto" rows="3" required></textarea>
+                <input type="text" id="product-price" placeholder="Preço (R$)" required>
+                <input type="file" id="product-image" accept="image/*" required>
+                <button type="submit">Adicionar Produto</button>
+            </form>
+        </section>
+        <section id="product-list">
+            <h2>Lista de Produtos</h2>
+            <ul id="products"></ul>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
