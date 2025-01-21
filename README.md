@@ -17,8 +17,4 @@ Este e-commerce foi projetado com uma estética jovem e moderna, com cores vibra
 - **CSS**: Estilização e layout responsivo.
 - **JavaScript**: Adição de interatividade para gerenciamento de produtos.
 
-## Como Rodar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/alura-geek.git
