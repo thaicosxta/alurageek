@@ -1,5 +1,7 @@
 # Alura Geek
 
+link para acessar o projeto e testar: https://vercel.com/thaicosxtas-projects/alurageek
+
 **Alura Geek** é uma loja online fictícia desenvolvida para exibir e gerenciar produtos relacionados ao universo geek e gamer. O projeto utiliza **HTML**, **CSS** e **JavaScript** para criar uma interface simples e interativa, permitindo que os usuários adicionem produtos com informações como nome, descrição, preço e imagem.
 
 Este e-commerce foi projetado com uma estética jovem e moderna, com cores vibrantes, especialmente o rosa, para criar uma experiência visual agradável e dinâmica. O objetivo é fornecer uma plataforma básica de gerenciamento de produtos, permitindo aos administradores adicionar e remover itens de forma intuitiva.
